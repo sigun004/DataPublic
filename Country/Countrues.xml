@@ -1,0 +1,258 @@
+<!-- Attention: abbreviation "XX" means "No Abbreviation defined". This behavior copied from ADUC 2008. -->
+
+<Countrues>
+  <Country Code="4" Abbreviation="AF" Name="Afghanistan" />
+  <Country Code="8" Abbreviation="AL" Name="Albania" />
+  <Country Code="12" Abbreviation="DZ" Name="Algeria" />
+  <Country Code="16" Abbreviation="AS" Name="American Samoa" />
+  <Country Code="20" Abbreviation="AD" Name="Andorra" />
+  <Country Code="24" Abbreviation="AO" Name="Angola" />
+  <Country Code="660" Abbreviation="AI" Name="Anguilla" />
+  <Country Code="10" Abbreviation="AQ" Name="Antarctica" />
+  <Country Code="28" Abbreviation="AG" Name="Antigua and Barbuda" />
+  <Country Code="32" Abbreviation="AR" Name="Argentina" />
+  <Country Code="51" Abbreviation="AM" Name="Armenia" />
+  <Country Code="533" Abbreviation="AW" Name="Aruba" />
+  <Country Code="36" Abbreviation="AU" Name="Australia" />
+  <Country Code="40" Abbreviation="AT" Name="Austria" />
+  <Country Code="31" Abbreviation="AZ" Name="Azerbaijan" />
+  <Country Code="44" Abbreviation="BS" Name="Bahamas, The" />
+  <Country Code="48" Abbreviation="BH" Name="Bahrain" />
+  <Country Code="581" Abbreviation="XX" Name="Baker Island" />
+  <Country Code="50" Abbreviation="BD" Name="Bangladesh" />
+  <Country Code="52" Abbreviation="BB" Name="Barbados" />
+  <Country Code="112" Abbreviation="BY" Name="Belarus" />
+  <Country Code="56" Abbreviation="BE" Name="Belgium" />
+  <Country Code="84" Abbreviation="BZ" Name="Belize" />
+  <Country Code="204" Abbreviation="BJ" Name="Benin" />
+  <Country Code="60" Abbreviation="BM" Name="Bermuda" />
+  <Country Code="64" Abbreviation="BT" Name="Bhutan" />
+  <Country Code="68" Abbreviation="BO" Name="Bolivia" />
+  <Country Code="70" Abbreviation="BA" Name="Bosnia and Herzegovina" />
+  <Country Code="72" Abbreviation="BW" Name="Botswana" />
+  <Country Code="74" Abbreviation="BV" Name="Bouvet Island" />
+  <Country Code="76" Abbreviation="BR" Name="Brazil" />
+  <Country Code="86" Abbreviation="IO" Name="British Indian Ocean Territory" />
+  <Country Code="96" Abbreviation="BN" Name="Brunei" />
+  <Country Code="100" Abbreviation="BG" Name="Bulgaria" />
+  <Country Code="854" Abbreviation="BF" Name="Burkina Faso" />
+  <Country Code="108" Abbreviation="BI" Name="Burundi" />
+  <Country Code="116" Abbreviation="KH" Name="Cambodia" />
+  <Country Code="120" Abbreviation="CM" Name="Cameroon" />
+  <Country Code="124" Abbreviation="CA" Name="Canada" />
+  <Country Code="132" Abbreviation="CV" Name="Cape Verde" />
+  <Country Code="136" Abbreviation="KY" Name="Cayman Islands" />
+  <Country Code="140" Abbreviation="CF" Name="Central African Republic" />
+  <Country Code="148" Abbreviation="TD" Name="Chad" />
+  <Country Code="152" Abbreviation="CL" Name="Chile" />
+  <Country Code="156" Abbreviation="CN" Name="China" />
+  <Country Code="162" Abbreviation="CX" Name="Christmas Island" />
+  <Country Code="166" Abbreviation="CC" Name="Cocos (Keeling) Islands" />
+  <Country Code="170" Abbreviation="CO" Name="Colombia" />
+  <Country Code="174" Abbreviation="KM" Name="Comoros" />
+  <Country Code="178" Abbreviation="CG" Name="Congo" />
+  <Country Code="180" Abbreviation="CD" Name="Congo (DRC)" />
+  <Country Code="184" Abbreviation="CK" Name="Cook Islands" />
+  <Country Code="188" Abbreviation="CR" Name="Costa Rica" />
+  <Country Code="191" Abbreviation="HR" Name="Croatia" />
+  <Country Code="192" Abbreviation="CU" Name="Cuba" />
+  <Country Code="196" Abbreviation="CY" Name="Cyprus" />
+  <Country Code="203" Abbreviation="CZ" Name="Czech Republic" />
+  <Country Code="384" Abbreviation="CI" Name="Côte d'Ivoire" />
+  <Country Code="626" Abbreviation="TL" Name="Democratic Republic of Timor-Leste" />
+  <Country Code="208" Abbreviation="DK" Name="Denmark" />
+  <Country Code="262" Abbreviation="DJ" Name="Djibouti" />
+  <Country Code="212" Abbreviation="DM" Name="Dominica" />
+  <Country Code="214" Abbreviation="DO" Name="Dominican Republic" />
+  <Country Code="218" Abbreviation="EC" Name="Ecuador" />
+  <Country Code="818" Abbreviation="EG" Name="Egypt" />
+  <Country Code="222" Abbreviation="SV" Name="El Salvador" />
+  <Country Code="226" Abbreviation="GQ" Name="Equatorial Guinea" />
+  <Country Code="232" Abbreviation="ER" Name="Eritrea" />
+  <Country Code="233" Abbreviation="EE" Name="Estonia" />
+  <Country Code="231" Abbreviation="ET" Name="Ethiopia" />
+  <Country Code="238" Abbreviation="FK" Name="Falkland Islands (Islas Malvinas)" />
+  <Country Code="234" Abbreviation="FO" Name="Faroe Islands" />
+  <Country Code="242" Abbreviation="FJ" Name="Fiji Islands" />
+  <Country Code="246" Abbreviation="FI" Name="Finland" />
+  <Country Code="250" Abbreviation="FR" Name="France" />
+  <Country Code="254" Abbreviation="GF" Name="French Guiana" />
+  <Country Code="258" Abbreviation="PF" Name="French Polynesia" />
+  <Country Code="260" Abbreviation="TF" Name="French Southern and Antarctic Lands" />
+  <Country Code="266" Abbreviation="GA" Name="Gabon" />
+  <Country Code="270" Abbreviation="GM" Name="Gambia, The" />
+  <Country Code="268" Abbreviation="GE" Name="Georgia" />
+  <Country Code="276" Abbreviation="DE" Name="Germany" />
+  <Country Code="288" Abbreviation="GH" Name="Ghana" />
+  <Country Code="292" Abbreviation="GI" Name="Gibraltar" />
+  <Country Code="300" Abbreviation="GR" Name="Greece" />
+  <Country Code="304" Abbreviation="GL" Name="Greenland" />
+  <Country Code="308" Abbreviation="GD" Name="Grenada" />
+  <Country Code="312" Abbreviation="GP" Name="Guadeloupe" />
+  <Country Code="316" Abbreviation="GU" Name="Guam" />
+  <Country Code="320" Abbreviation="GT" Name="Guatemala" />
+  <Country Code="826" Abbreviation="GG" Name="Guernsey" />
+  <Country Code="324" Abbreviation="GN" Name="Guinea" />
+  <Country Code="624" Abbreviation="GW" Name="Guinea-Bissau" />
+  <Country Code="328" Abbreviation="GY" Name="Guyana" />
+  <Country Code="332" Abbreviation="HT" Name="Haiti" />
+  <Country Code="334" Abbreviation="HM" Name="Heard Island and McDonald Islands" />
+  <Country Code="340" Abbreviation="HN" Name="Honduras" />
+  <Country Code="344" Abbreviation="HK" Name="Hong Kong S.A.R." />
+  <Country Code="581" Abbreviation="XX" Name="Howland Island" />
+  <Country Code="348" Abbreviation="HU" Name="Hungary" />
+  <Country Code="352" Abbreviation="IS" Name="Iceland" />
+  <Country Code="356" Abbreviation="IN" Name="India" />
+  <Country Code="360" Abbreviation="ID" Name="Indonesia" />
+  <Country Code="364" Abbreviation="IR" Name="Iran" />
+  <Country Code="368" Abbreviation="IQ" Name="Iraq" />
+  <Country Code="372" Abbreviation="IE" Name="Ireland" />
+  <Country Code="376" Abbreviation="IL" Name="Israel" />
+  <Country Code="380" Abbreviation="IT" Name="Italy" />
+  <Country Code="388" Abbreviation="JM" Name="Jamaica" />
+  <Country Code="744" Abbreviation="SJ" Name="Jan Mayen" />
+  <Country Code="392" Abbreviation="JP" Name="Japan" />
+  <Country Code="581" Abbreviation="XX" Name="Jarvis Island" />
+  <Country Code="826" Abbreviation="JE" Name="Jersey" />
+  <Country Code="581" Abbreviation="XX" Name="Johnston Atoll" />
+  <Country Code="400" Abbreviation="JO" Name="Jordan" />
+  <Country Code="398" Abbreviation="KZ" Name="Kazakhstan" />
+  <Country Code="404" Abbreviation="KE" Name="Kenya" />
+  <Country Code="581" Abbreviation="XX" Name="Kingman Reef" />
+  <Country Code="296" Abbreviation="KI" Name="Kiribati" />
+  <Country Code="410" Abbreviation="KR" Name="Korea" />
+  <Country Code="414" Abbreviation="KW" Name="Kuwait" />
+  <Country Code="417" Abbreviation="KG" Name="Kyrgyzstan" />
+  <Country Code="418" Abbreviation="LA" Name="Laos" />
+  <Country Code="428" Abbreviation="LV" Name="Latvia" />
+  <Country Code="422" Abbreviation="LB" Name="Lebanon" />
+  <Country Code="426" Abbreviation="LS" Name="Lesotho" />
+  <Country Code="430" Abbreviation="LR" Name="Liberia" />
+  <Country Code="434" Abbreviation="LY" Name="Libya" />
+  <Country Code="438" Abbreviation="LI" Name="Liechtenstein" />
+  <Country Code="440" Abbreviation="LT" Name="Lithuania" />
+  <Country Code="442" Abbreviation="LU" Name="Luxembourg" />
+  <Country Code="446" Abbreviation="MO" Name="Macao S.A.R." />
+  <Country Code="807" Abbreviation="MK" Name="Macedonia, Former Yugoslav Republic of" />
+  <Country Code="450" Abbreviation="MG" Name="Madagascar" />
+  <Country Code="454" Abbreviation="MW" Name="Malawi" />
+  <Country Code="458" Abbreviation="MY" Name="Malaysia" />
+  <Country Code="462" Abbreviation="MV" Name="Maldives" />
+  <Country Code="466" Abbreviation="ML" Name="Mali" />
+  <Country Code="470" Abbreviation="MT" Name="Malta" />
+  <Country Code="826" Abbreviation="IM" Name="Man, Isle of" />
+  <Country Code="584" Abbreviation="MH" Name="Marshall Islands" />
+  <Country Code="474" Abbreviation="MQ" Name="Martinique" />
+  <Country Code="478" Abbreviation="MR" Name="Mauritania" />
+  <Country Code="480" Abbreviation="MU" Name="Mauritius" />
+  <Country Code="175" Abbreviation="YT" Name="Mayotte" />
+  <Country Code="484" Abbreviation="MX" Name="Mexico" />
+  <Country Code="583" Abbreviation="FM" Name="Micronesia" />
+  <Country Code="581" Abbreviation="XX" Name="Midway Islands" />
+  <Country Code="498" Abbreviation="MD" Name="Moldova" />
+  <Country Code="492" Abbreviation="MC" Name="Monaco" />
+  <Country Code="496" Abbreviation="MN" Name="Mongolia" />
+  <Country Code="499" Abbreviation="ME" Name="Montenegro" />
+  <Country Code="500" Abbreviation="MS" Name="Montserrat" />
+  <Country Code="504" Abbreviation="MA" Name="Morocco" />
+  <Country Code="508" Abbreviation="MZ" Name="Mozambique" />
+  <Country Code="104" Abbreviation="MM" Name="Myanmar" />
+  <Country Code="516" Abbreviation="NA" Name="Namibia" />
+  <Country Code="520" Abbreviation="NR" Name="Nauru" />
+  <Country Code="524" Abbreviation="NP" Name="Nepal" />
+  <Country Code="528" Abbreviation="NL" Name="Netherlands" />
+  <Country Code="530" Abbreviation="AN" Name="Netherlands Antilles" />
+  <Country Code="540" Abbreviation="NC" Name="New Caledonia" />
+  <Country Code="554" Abbreviation="NZ" Name="New Zealand" />
+  <Country Code="558" Abbreviation="NI" Name="Nicaragua" />
+  <Country Code="562" Abbreviation="NE" Name="Niger" />
+  <Country Code="566" Abbreviation="NG" Name="Nigeria" />
+  <Country Code="570" Abbreviation="NU" Name="Niue" />
+  <Country Code="574" Abbreviation="NF" Name="Norfolk Island" />
+  <Country Code="408" Abbreviation="KP" Name="North Korea" />
+  <Country Code="580" Abbreviation="MP" Name="Northern Mariana Islands" />
+  <Country Code="578" Abbreviation="NO" Name="Norway" />
+  <Country Code="512" Abbreviation="OM" Name="Oman" />
+  <Country Code="586" Abbreviation="PK" Name="Pakistan" />
+  <Country Code="585" Abbreviation="PW" Name="Palau" />
+  <Country Code="275" Abbreviation="PS" Name="Palestinian Authority" />
+  <Country Code="581" Abbreviation="XX" Name="Palmyra Atoll" />
+  <Country Code="591" Abbreviation="PA" Name="Panama" />
+  <Country Code="598" Abbreviation="PG" Name="Papua New Guinea" />
+  <Country Code="600" Abbreviation="PY" Name="Paraguay" />
+  <Country Code="604" Abbreviation="PE" Name="Peru" />
+  <Country Code="608" Abbreviation="PH" Name="Philippines" />
+  <Country Code="612" Abbreviation="PN" Name="Pitcairn Islands" />
+  <Country Code="616" Abbreviation="PL" Name="Poland" />
+  <Country Code="620" Abbreviation="PT" Name="Portugal" />
+  <Country Code="630" Abbreviation="PR" Name="Puerto Rico" />
+  <Country Code="634" Abbreviation="QA" Name="Qatar" />
+  <Country Code="638" Abbreviation="RE" Name="Reunion" />
+  <Country Code="642" Abbreviation="RO" Name="Romania" />
+  <Country Code="643" Abbreviation="RU" Name="Russia" />
+  <Country Code="646" Abbreviation="RW" Name="Rwanda" />
+  <Country Code="882" Abbreviation="WS" Name="Samoa" />
+  <Country Code="674" Abbreviation="SM" Name="San Marino" />
+  <Country Code="682" Abbreviation="SA" Name="Saudi Arabia" />
+  <Country Code="686" Abbreviation="SN" Name="Senegal" />
+  <Country Code="688" Abbreviation="RS" Name="Serbia" />
+  <Country Code="690" Abbreviation="SC" Name="Seychelles" />
+  <Country Code="694" Abbreviation="SL" Name="Sierra Leone" />
+  <Country Code="702" Abbreviation="SG" Name="Singapore" />
+  <Country Code="703" Abbreviation="SK" Name="Slovakia" />
+  <Country Code="705" Abbreviation="SI" Name="Slovenia" />
+  <Country Code="90" Abbreviation="SB" Name="Solomon Islands" />
+  <Country Code="706" Abbreviation="SO" Name="Somalia" />
+  <Country Code="710" Abbreviation="ZA" Name="South Africa" />
+  <Country Code="239" Abbreviation="GS" Name="South Georgia and the South Sandwich Islands" />
+  <Country Code="724" Abbreviation="ES" Name="Spain" />
+  <Country Code="144" Abbreviation="LK" Name="Sri Lanka" />
+  <Country Code="652" Abbreviation="BL" Name="St. Barthélemy" />
+  <Country Code="654" Abbreviation="SH" Name="St. Helena" />
+  <Country Code="659" Abbreviation="KN" Name="St. Kitts and Nevis" />
+  <Country Code="662" Abbreviation="LC" Name="St. Lucia" />
+  <Country Code="663" Abbreviation="MF" Name="St. Martin" />
+  <Country Code="666" Abbreviation="PM" Name="St. Pierre and Miquelon" />
+  <Country Code="670" Abbreviation="VC" Name="St. Vincent and the Grenadines" />
+  <Country Code="736" Abbreviation="SD" Name="Sudan" />
+  <Country Code="740" Abbreviation="SR" Name="Suriname" />
+  <Country Code="744" Abbreviation="SJ" Name="Svalbard" />
+  <Country Code="748" Abbreviation="SZ" Name="Swaziland" />
+  <Country Code="752" Abbreviation="SE" Name="Sweden" />
+  <Country Code="756" Abbreviation="CH" Name="Switzerland" />
+  <Country Code="760" Abbreviation="SY" Name="Syria" />
+  <Country Code="678" Abbreviation="ST" Name="São Tomé and Príncipe" />
+  <Country Code="158" Abbreviation="TW" Name="Taiwan" />
+  <Country Code="762" Abbreviation="TJ" Name="Tajikistan" />
+  <Country Code="834" Abbreviation="TZ" Name="Tanzania" />
+  <Country Code="764" Abbreviation="TH" Name="Thailand" />
+  <Country Code="768" Abbreviation="TG" Name="Togo" />
+  <Country Code="772" Abbreviation="TK" Name="Tokelau" />
+  <Country Code="776" Abbreviation="TO" Name="Tonga" />
+  <Country Code="780" Abbreviation="TT" Name="Trinidad and Tobago" />
+  <Country Code="788" Abbreviation="TN" Name="Tunisia" />
+  <Country Code="792" Abbreviation="TR" Name="Turkey" />
+  <Country Code="795" Abbreviation="TM" Name="Turkmenistan" />
+  <Country Code="796" Abbreviation="TC" Name="Turks and Caicos Islands" />
+  <Country Code="798" Abbreviation="TV" Name="Tuvalu" />
+  <Country Code="800" Abbreviation="UG" Name="Uganda" />
+  <Country Code="804" Abbreviation="UA" Name="Ukraine" />
+  <Country Code="784" Abbreviation="AE" Name="United Arab Emirates" />
+  <Country Code="826" Abbreviation="GB" Name="United Kingdom" />
+  <Country Code="840" Abbreviation="US" Name="United States" />
+  <Country Code="858" Abbreviation="UY" Name="Uruguay" />
+  <Country Code="860" Abbreviation="UZ" Name="Uzbekistan" />
+  <Country Code="548" Abbreviation="VU" Name="Vanuatu" />
+  <Country Code="336" Abbreviation="VA" Name="Vatican City" />
+  <Country Code="862" Abbreviation="VE" Name="Venezuela" />
+  <Country Code="704" Abbreviation="VN" Name="Vietnam" />
+  <Country Code="850" Abbreviation="VI" Name="Virgin Islands" />
+  <Country Code="92" Abbreviation="VG" Name="Virgin Islands, British" />
+  <Country Code="581" Abbreviation="XX" Name="Wake Island" />
+  <Country Code="876" Abbreviation="WF" Name="Wallis and Futuna" />
+  <Country Code="732" Abbreviation="EH" Name="Western Sahara" />
+  <Country Code="887" Abbreviation="YE" Name="Yemen" />
+  <Country Code="894" Abbreviation="ZM" Name="Zambia" />
+  <Country Code="716" Abbreviation="ZW" Name="Zimbabwe" />
+  <Country Code="248" Abbreviation="AX" Name="Åland Islands" />
+</Countrues>
